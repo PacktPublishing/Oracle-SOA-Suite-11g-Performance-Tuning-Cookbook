@@ -1,0 +1,7 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    	<soap:Body>
+        		<ns1:process xmlns:ns1="http://xmlns.oracle.com/SOAApplication1/Project1/BPELProcess1">
+            			<ns1:input>1</ns1:input>
+        </ns1:process>
+    </soap:Body>
+</soap:Envelope>
