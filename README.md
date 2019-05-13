@@ -50,14 +50,10 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Nicholas Wright**
-is a Java middleware consultant and technical evangelist with 9 years of experience from Embedded C real-time systems to Enterprise Java. He has served on a Java Community Process Expert Group, and spoken at conferences across the world.
-
-Nick is a senior consultant at C2B2 Consulting Ltd., where he works with a wide range of commercial and open source JEE and SOA middleware platforms.
+is a Java middleware consultant and technical evangelist with 9 years of experience from Embedded C real-time systems to Enterprise Java. He has served on a Java Community Process Expert Group, and spoken at conferences across the world. Nick is a senior consultant at C2B2 Consulting Ltd., where he works with a wide range of commercial and open source JEE and SOA middleware platforms.
 
 **Matt Brasier**
-is a professional services consultant with 10 years of experience tuning Enterprise Java applications. He has 9 years of experience working with Enterprise Java middleware, and has always focused on the performance aspects of application servers and SOA platforms. Matt has spoken at numerous technical conferences, including The Serverside Java Symposium and JUDCon.
-
-Matt is the head of consulting at C2B2 Consulting Ltd., an independent middleware consultancy specializing in SOA and JEE, providing professional services on the leading Java middleware platforms. C2B2 is an Oracle Gold Partner with Application Grid Specialization.
+is a professional services consultant with 10 years of experience tuning Enterprise Java applications. He has 9 years of experience working with Enterprise Java middleware, and has always focused on the performance aspects of application servers and SOA platforms. Matt has spoken at numerous technical conferences, including The Serverside Java Symposium and JUDCon. Matt is the head of consulting at C2B2 Consulting Ltd., an independent middleware consultancy specializing in SOA and JEE, providing professional services on the leading Java middleware platforms. C2B2 is an Oracle Gold Partner with Application Grid Specialization.
 
 
 ### Suggestions and Feedback
